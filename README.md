@@ -1,4 +1,4 @@
-# 📐 Calcul *i+1 – i* dans Power Query (Power BI)
+# 📐 Calcul *ligne(i+1) – ligne(i)* dans Power Query (Power BI)
 
 ## 🎯 Objectif  
 Sous **Excel**, comparer une valeur à la ligne précédente est immédiat avec une formule du type :  
